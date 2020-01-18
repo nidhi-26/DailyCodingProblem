@@ -1,5 +1,3 @@
-#code
-
 def findPair(arr, k):
     s = set()
     for i in arr:
